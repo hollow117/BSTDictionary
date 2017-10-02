@@ -1,0 +1,45 @@
+URL: http://www.news.wisc.edu/22952
+
+Scientists find the shocking truth about electric fish
+
+June 26, 2014
+by Terry Devitt
+
+Scientists have found how the electric fish evolved its jolt.
+
+Writing June 27, 2014 in the journal Science, a team of researchers led by Michael Sussman of the University of Wisconsin-Madison, Harold Zakon of the University of Texas at Austin and Manoj Samanta of the Systemix Institute in Redmond, Washington identifies the regulatory molecules involved in the genetic and developmental pathways that electric fish have used to convert a simple muscle into an organ capable of generating a potent electrical field.
+
+The work establishes the genetic basis for the electric organ, an anatomical feature found only in fish and that evolved independently half a dozen times in environments ranging from the flooded forests of the Amazon to murky marine environments.
+
+"These fish have converted a muscle to an electric organ," explains Sussman, a professor of biochemistry and director of the UW-Madison Biotechnology Center, who first undertook the exploration of the electric organ almost a decade ago. The study published in Science provides evidence to support the idea that the six electric fish lineages, all of which evolved independently, used essentially the same genes and developmental and cellular pathways to make an electric organ, needed for defense, predation, navigation and communication.
+
+"What is amazing is that the electric organ arose independently six times in the course of evolutionary history," says Lindsay Traeger, a UW-Madison graduate student in genetics and a co-lead author of the new report along with Jason Gallant, an assistant professor of zoology at Michigan State University.
+
+Adds Gallant: "The surprising result of our study is that electric fish seem to use the same 'genetic toolbox' to build their electric organ," despite the fact that they evolved independently.
+
+Worldwide, there are hundreds of electric fish in six broad lineages. Their taxonomic diversity is so great that Darwin himself cited electric fishes as critical examples of convergent evolution, where unrelated animals independently evolve similar traits to adapt to a particular environment or ecological niche. The new work, which includes the first draft assembly of the complete genome of an electric fish, the South American electric eel, identifies the genetic factors and developmental paths the animals used to create an organ that, in some instances, can deliver a jolt several times more powerful than the current from a standard household electrical outlet.
+
+Electric fish have long fascinated humans. The ancient Egyptians used the torpedo, an electric marine ray, in an early form of electrotherapy to treat epilepsy. Much of what Benjamin Franklin and other pioneering scientists learned about electricity came from studies of electric fish. In Victorian times, parties were organized where guests would form a chain to experience the shock of an electric fish.
+
+"Only vertebrates have evolved this and only among fishes," notes James Albert, a professor of biology at the University of Louisiana and a co-author of the new study. "You need water as a conductor."
+
+The electric organ is used by fish in murky environments to communicate with mates, navigate, stun prey and as a shocking defense, probably a reason why the muddy Amazon and its tributaries teem with electric fish, including the electric eel, the most potent of them. Not really an eel but a fish more closely related to the catfish, the electric eel produces a jolting electric field of up to 600 volts, about 100 volts per foot of fish, notes Albert.
+
+"A six-foot eel is a top predator in the water and is in essence a frog with a built-in five-and-a-half-foot cattle prod," says Sussman. "Since all of the visceral organs are near the face, the remaining 90 percent of the fish is almost all electric organ."
+
+As a means of communication and navigation in the dark, the generation of electric fields by fish works much the same as echolocation does for bats, says Albert. "These fish are nocturnal and the vast majority of them live at the bottom of a very muddy river, the Amazon."
+
+All muscle cells have electrical potential. Simple contraction of a muscle will release a small amount of voltage. But at least 100 million years ago some fish began to amplify that potential by evolving from muscle cells another type of cell called an electrocyte - larger cells, organized in sequence and capable of generating much higher voltages than those used to make muscles work.
+
+"If you remove the ability of the muscle cell to contract and change the distribution of proteins in the cell membrane, now all they do is push ions across a membrane to create a massive flow of positive charge," explains Traeger.
+
+The "in-series alignment" of the electrocytes and unique polarity of each cell allows for the "summation of voltages, much like batteries stacked in series in a flashlight," says Sussman.
+
+The additional current required for the power comes from the fact that an eel body contains many millions of such "flashlights" working together and firing their electrical discharge simultaneously.
+
+In addition to sequencing and assembling DNA from the electric eel genome, the team produced protein sequences from the cells of the electric organs and skeletal muscles of three other electric fish lineages using RNA sequencing and analysis. A computationally intense comparative study of the sequences showed that electric organs in fish worldwide used the same genetic tools and cellular and developmental pathways to independently create the electric organ.
+
+"I consider 'exotic' organisms such as the electric fish to be one of nature's wonders and an important 'gift' to humanity," says Sussman. "Our study demonstrates nature's creative powers and its parsimony, using the same genetic and developmental tools to invent an adaptive trait time and again in widely disparate environments. By learning how nature does this, we may be able to manipulate the process with muscle in other organisms and, in the near future, perhaps use the tools of synthetic biology to create electrocytes for generating electrical power in bionic devices within the human body or for uses we have not thought of yet."
+
+The study was funded by the National Science Foundation, the W. M. Keck Foundation and the National Institutes of Health.
+            
